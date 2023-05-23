@@ -1,3 +1,3 @@
 # Piano-Sound-Reading-Exp
 
-Sound experimentation in p5.js
+Sound and Flow field experimentation in p5.js with use of ml5.js
